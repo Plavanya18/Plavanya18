@@ -46,18 +46,9 @@
 
 ## 📊 GitHub Stats
 
-![Lavanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plavanya18&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Plavanya18&layout=compact&theme=radical)
 
 ---
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Plavanya18&theme=radical)
-
----
-
 
 ## 💡 Fun Fact
 ⚡ I love solving backend performance issues and building clean APIs!
