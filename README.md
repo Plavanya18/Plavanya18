@@ -52,4 +52,4 @@
 ---
 
 ## 💡 Fun Fact
-⚡ I love solving backend performance issues and building clean APIs!
+⚡ I love turning ideas into full-stack applications with smooth UI and powerful backend performance!
