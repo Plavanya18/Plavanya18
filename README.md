@@ -39,7 +39,8 @@
 
 ## 🛠 Languages and Tools:
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,js,ts,html,css,mysql,postgres,docker,aws,git,postman,prisma" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,js,ts,html,css,mysql,postgres,mongodb,docker,aws,git,postman,prisma" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" height="40"/>
 </p>
 
 ---
